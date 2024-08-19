@@ -1,2 +1,2 @@
 # Rental House Price Prediction
- A Python code that analyzes rental apartments in Istanbul and predicts their prices.
+ A Python script that scrapes rental house features and prices within Istanbul from various real estate websites using Selenium. The data is then analyzed using ScikitLearn's linear regression, decision tree, and random forest models, with a comparison of these models to evaluate their performance. The script can predict the rental price of a house based on inputted location and other features.
